@@ -1,0 +1,4 @@
+cluster,count,avg_age,avg_capital_gain,avg_capital_loss,avg_hours,most_common_workclass,most_common_occupation,pct_over_50K,cluster_name
+1,3787,43.68,8.84,0.0,43.9,Private,Prof-specialty,63.0,Capital_Gain_Winners
+2,2140,41.79,0.0,7.51,43.6,Private,Exec-managerial,51.0,Risk_Takers
+0,39248,37.89,0.0,0.0,40.42,Private,Craft-repair,20.0,Nine_to_Five
