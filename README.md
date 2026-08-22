@@ -20,7 +20,7 @@ View the live application here (https://census-income-predictor.streamlit.app/)
 
 ## 4. Objectives
 - Explore demographic and socioeconomic patterns in the dataset
-- Identify factors associated with earning more than $50k
+- Identify factors associated with earning more than $50k 
 - Build a machine learning classification model
 - segment individuals using K-Means clustering
 - Explore income patterns across countries
