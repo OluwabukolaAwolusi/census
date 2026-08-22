@@ -109,6 +109,13 @@ Best Threshold: 0.677
 Performance: 84% Accuracy, Precision 0.65 / Recall 0.75 / F1 0.70 for >50K class
 Highly effective at identifying potential high earners (75% recall).
 
+### Model Performance - Confusion Matrix
+
+Comparison of Default (0.5) vs Tuned Threshold (0.677) for Random Forest.
+
+- Left: At 0.5 threshold, higher recall for >50K (87%) but more false positives (1508)
+- Right: At 0.677 tuned threshold, more precise, Recall 0.75 / F1 0.70 for >50K class
+  
 ![Confusion Matrix](images/confusuion%20matrix(RF%40%200.50%20AND%20RF%40%200.677).png)
 
 ## 10. Conclusion
