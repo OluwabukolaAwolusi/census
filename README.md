@@ -101,8 +101,7 @@ Cluster 0 - Nine-to-Five (87%): 37.9 yrs, 40.4 hrs, 0 capital gain. Only 19.7% >
 Cluster 1 - Capital-gain-winners (8.4%): 43.7 yrs, 43.9 hrs, 8.84 avg capital gain. 62.7% >50K
 Cluster 2 - Risk-Takers (4.7%): 41.8 yrs, 43.6 hrs, 7.51 avg capital loss, 0 gain. 51.3% >50K
 
-"C:\Users\DELL\OneDrive\Dokumente\census\census\clusters_profile.png"
-
+![Clusters Profile](images/clusters_profile.png)
 
 Classification:
 Model: RandomForest + SMOTEENN for imbalance
@@ -110,7 +109,7 @@ Best Threshold: 0.677
 Performance: 84% Accuracy, Precision 0.65 / Recall 0.75 / F1 0.70 for >50K class
 Highly effective at identifying potential high earners (75% recall).
 
-"C:\Users\DELL\OneDrive\Dokumente\census\census\confusuion matrix(RF@ 0.50 AND RF@ 0.677).png"
+![Confusion Matrix](images/confusion_matrix.png)
 
 ## 10. Conclusion
 Income inequality exists at 2 levels and they reinforce each other.
