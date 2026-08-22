@@ -109,7 +109,7 @@ Best Threshold: 0.677
 Performance: 84% Accuracy, Precision 0.65 / Recall 0.75 / F1 0.70 for >50K class
 Highly effective at identifying potential high earners (75% recall).
 
-![Confusion Matrix](images/confusion_matrix.png)
+![Confusion Matrix](images/confusuion%20matrix(RF%40%200.50%20AND%20RF%40%200.677).png)
 
 ## 10. Conclusion
 Income inequality exists at 2 levels and they reinforce each other.
